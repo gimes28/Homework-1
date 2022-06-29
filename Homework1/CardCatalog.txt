@@ -1,0 +1,7 @@
+Title: Peter Pan
+Author: James Barrie
+Author First Name: James
+Author Last Name: Barrie
+Number of words: 3050
+Number of lines: 257
+
